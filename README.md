@@ -2,6 +2,7 @@
 Esse é um material criado para ensinar PHP e JS para outros.
 
 - PHP Básico
+- Métodos HTTP
 - Conexão com banco Postgres
 - Introdução a POO
 - Introdução PDO
