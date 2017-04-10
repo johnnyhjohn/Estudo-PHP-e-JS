@@ -11,3 +11,6 @@ Esse é um material criado para ensinar PHP e JS para outros.
 - Autenticação
 - Integrando Javascript na aplicação
 - Entendedo o AJAX
+- Integração de API's
+- Framework Laravel
+- Frameworks Javascript
