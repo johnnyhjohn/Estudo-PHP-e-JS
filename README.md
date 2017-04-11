@@ -1,6 +1,7 @@
 # Estudo-PHP-e-JS
 Esse é um material criado para ensinar PHP e JS para outros.
 
+Link dos slides : https://docs.google.com/presentation/d/1Gx3B83veqp4ax_TQ83Fz_Sl-qg24whSc7i9DvsXPR58/edit?usp=sharing
 - PHP Básico
 - Métodos HTTP
 - Conexão com banco Postgres
