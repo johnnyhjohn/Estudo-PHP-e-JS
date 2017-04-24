@@ -97,9 +97,18 @@
 
 ?>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 <form action="cadastro.php" method="post">
 	<input type="text" name="nome">
 	<input type="number" min="0" name="idade">
 	<input type="password" name="senha">
 	<input type="submit" value="Enviar">
-</form>
+</form> 
+</body>
+</html>
