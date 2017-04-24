@@ -119,8 +119,10 @@ $(document).ready(function(){
 		// executa um .append em item, adicionando um botão
 		item.append('<button class="btn btn-red btn-remove-produto"><i class="fa fa-minus"></i></button>');
 		// procula pelo input com val 1
+		// ** Corrigido procura por input e adiciona o valor de 1
 		item.find('input').val('1');
 		// executa uma busca pelo ultimo .item depois de item
+		// ** Corrigido procura pelo ultimo .item e appenda depois do elemento o valor da var item depois
 		$ingrediente.find('.item').last().after(item);
 	});
 
@@ -194,6 +196,7 @@ function resetMaterialInput( $input ){
 // criamos a função loginAjax
 function loginAjax(){
 	// na variavel data, interna da função, criamos um array contento email e password, são os .val de  $('#username') e $('#senha')
+	// ** Corrigido : criamos um objeto.
 	let data = {
 		email 	 : $('#username').val(),
 		password : $('#senha').val()
